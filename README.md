@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/wrdhn/wrdhn"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/nodejs/node"><img src="https://img.shields.io/badge/Node.js-18.x-339933.svg"></a>
+    <a href="https://github.com/nodejs/node"><img src="https://img.shields.io/badge/Node.js-23.x-339933.svg"></a>
     <a href="https://github.com/wrdhn/wrdhn/graphs/contributors"><img src="https://img.shields.io/github/contributors/wrdhn/wrdhn?color=blue"></a>
     <a href="https://github.com/wrdhn"><img src="https://img.shields.io/github/stars/wrdhn"></a>
     <a href="https://github.com/wrdhn/wrdhn/network/members"><img src="https://img.shields.io/github/forks/wrdhn/wrdhn.svg?color=blue&logo=github"></a>
