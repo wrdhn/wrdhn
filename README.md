@@ -12,11 +12,18 @@
 
 > <b>I'm js a guy</b>\
 
-## 🛠️ Tech Stack:
-![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;\
+![HTML5](https://img.shields.io/badge/-HTML5-555?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-555?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp;\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-555?style=flat&logo=bootstrap)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
+![Hapi.js](https://img.shields.io/badge/-Hapi.js-555?style=flat&logo=hapi)&nbsp;\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;\
+![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## 📈 GitHub Activity Graph:
