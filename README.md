@@ -12,6 +12,7 @@
 
 > <b>I'm js a guy</b>\
 
+## 🛠️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-555?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-555?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
