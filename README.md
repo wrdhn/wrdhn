@@ -10,7 +10,8 @@
 
 <!-- [![](./src/header_.png)](#) -->
 
-> <b>Web developer focused on Node.js and modern frontend technologies | Passionate about responsive and high-performance applications</b>\
+ ><b>Web developer 🤓</b> <br>
+<b>Passionate about responsive and high-performance applications</b>\
 
 ## 🛠️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-555?style=flat&logo=html5)&nbsp;
